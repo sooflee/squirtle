@@ -26,8 +26,7 @@ jobs:
           cache: pip
 
       - name: Install dependencies
-        run: |
-          pip install pandas numpy matplotlib seaborn scikit-learn statsmodels scipy
+        run: pip install -r requirements.txt
 
       - name: Rebuild report from current data
         run: python build_report.py
