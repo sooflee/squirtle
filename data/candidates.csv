@@ -1,0 +1,32 @@
+producer,region,vintage,release_year,release_price_usd,critic_score,tier
+Lafite Rothschild,Bordeaux,2022,2024,840,98,first_growth
+Lafite Rothschild,Bordeaux,2023,2025,537,98,first_growth
+Lafite Rothschild,Bordeaux,2024,2026,372,95,first_growth
+Latour,Bordeaux,2022,2024,750,98,first_growth
+Latour,Bordeaux,2023,2025,580,97,first_growth
+Latour,Bordeaux,2024,2026,420,96,first_growth
+Margaux,Bordeaux,2022,2024,680,98,first_growth
+Margaux,Bordeaux,2023,2025,460,96,first_growth
+Margaux,Bordeaux,2024,2026,380,95,first_growth
+Mouton Rothschild,Bordeaux,2022,2024,570,97,first_growth
+Mouton Rothschild,Bordeaux,2023,2025,440,96,first_growth
+Mouton Rothschild,Bordeaux,2024,2026,360,95,first_growth
+Haut-Brion,Bordeaux,2022,2024,560,98,first_growth
+Haut-Brion,Bordeaux,2023,2025,500,97,first_growth
+Haut-Brion,Bordeaux,2024,2026,370,96,first_growth
+DRC Romanee-Conti,Burgundy,2020,2022,25000,100,grand_cru
+DRC Romanee-Conti,Burgundy,2021,2023,22000,99,grand_cru
+DRC La Tache,Burgundy,2020,2022,5500,100,grand_cru
+DRC La Tache,Burgundy,2021,2023,4500,99,grand_cru
+Roumier Musigny,Burgundy,2020,2022,30000,99,grand_cru
+Roumier Musigny,Burgundy,2021,2023,28000,98,grand_cru
+Rousseau Chambertin,Burgundy,2020,2022,4000,99,grand_cru
+Rousseau Chambertin,Burgundy,2021,2023,3500,98,grand_cru
+Coche-Dury Corton-Charlemagne,Burgundy,2020,2022,9500,99,grand_cru
+Coche-Dury Corton-Charlemagne,Burgundy,2021,2023,8000,98,grand_cru
+Krug Vintage,Champagne,2013,2023,450,97,prestige
+Krug Vintage,Champagne,2015,2025,420,97,prestige
+Dom Perignon,Champagne,2013,2023,280,96,prestige
+Dom Perignon,Champagne,2015,2025,300,97,prestige
+Cristal,Champagne,2015,2025,340,97,prestige
+Salon,Champagne,2013,2024,1200,98,prestige

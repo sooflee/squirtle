@@ -1,0 +1,85 @@
+producer,region,vintage,release_price_usd,release_year,current_price_usd,critic_score,tier
+Lafite Rothschild,Bordeaux,1982,32,1984,3300,100,first_growth
+Lafite Rothschild,Bordeaux,1986,55,1988,1200,98,first_growth
+Lafite Rothschild,Bordeaux,1990,50,1992,1230,95,first_growth
+Lafite Rothschild,Bordeaux,1995,75,1997,820,96,first_growth
+Lafite Rothschild,Bordeaux,1996,120,1998,1100,100,first_growth
+Lafite Rothschild,Bordeaux,2000,200,2002,2110,100,first_growth
+Lafite Rothschild,Bordeaux,2003,300,2005,1250,97,first_growth
+Lafite Rothschild,Bordeaux,2005,500,2007,1380,96,first_growth
+Lafite Rothschild,Bordeaux,2008,600,2010,900,96,first_growth
+Lafite Rothschild,Bordeaux,2009,1600,2011,1290,100,first_growth
+Lafite Rothschild,Bordeaux,2010,1800,2012,1457,100,first_growth
+Lafite Rothschild,Bordeaux,2015,500,2017,1147,95,first_growth
+Lafite Rothschild,Bordeaux,2016,550,2018,1000,99,first_growth
+Lafite Rothschild,Bordeaux,2018,550,2020,1100,98,first_growth
+Lafite Rothschild,Bordeaux,2019,500,2021,1109,97,first_growth
+Lafite Rothschild,Bordeaux,2020,450,2022,829,97,first_growth
+Latour,Bordeaux,1982,30,1984,3500,100,first_growth
+Latour,Bordeaux,1990,45,1992,900,97,first_growth
+Latour,Bordeaux,1995,70,1997,700,95,first_growth
+Latour,Bordeaux,2000,180,2002,1500,100,first_growth
+Latour,Bordeaux,2003,280,2005,900,100,first_growth
+Latour,Bordeaux,2005,480,2007,1300,100,first_growth
+Latour,Bordeaux,2009,1500,2011,1400,100,first_growth
+Latour,Bordeaux,2010,1700,2012,1500,99,first_growth
+Margaux,Bordeaux,1990,50,1992,700,100,first_growth
+Margaux,Bordeaux,1995,70,1997,650,95,first_growth
+Margaux,Bordeaux,2000,200,2002,1100,100,first_growth
+Margaux,Bordeaux,2005,500,2007,900,99,first_growth
+Margaux,Bordeaux,2009,1300,2011,900,99,first_growth
+Margaux,Bordeaux,2010,1500,2012,1000,99,first_growth
+Margaux,Bordeaux,2015,500,2017,1100,100,first_growth
+Mouton Rothschild,Bordeaux,1986,50,1988,900,100,first_growth
+Mouton Rothschild,Bordeaux,1990,50,1992,500,95,first_growth
+Mouton Rothschild,Bordeaux,2000,180,2002,900,96,first_growth
+Mouton Rothschild,Bordeaux,2005,450,2007,800,98,first_growth
+Mouton Rothschild,Bordeaux,2009,1400,2011,850,99,first_growth
+Mouton Rothschild,Bordeaux,2010,1500,2012,1000,99,first_growth
+Mouton Rothschild,Bordeaux,2018,500,2020,700,99,first_growth
+Haut-Brion,Bordeaux,1989,60,1991,1800,100,first_growth
+Haut-Brion,Bordeaux,1990,50,1992,700,96,first_growth
+Haut-Brion,Bordeaux,2005,450,2007,900,100,first_growth
+Haut-Brion,Bordeaux,2009,1200,2011,900,100,first_growth
+Haut-Brion,Bordeaux,2010,1400,2012,900,99,first_growth
+Haut-Brion,Bordeaux,2015,400,2017,700,100,first_growth
+DRC Romanee-Conti,Burgundy,1990,1500,1992,45000,100,grand_cru
+DRC Romanee-Conti,Burgundy,1999,2500,2001,25000,100,grand_cru
+DRC Romanee-Conti,Burgundy,2005,5500,2007,28000,100,grand_cru
+DRC Romanee-Conti,Burgundy,2010,8000,2012,22000,100,grand_cru
+DRC Romanee-Conti,Burgundy,2015,13000,2017,25000,99,grand_cru
+DRC Romanee-Conti,Burgundy,2019,14000,2021,22000,100,grand_cru
+DRC La Tache,Burgundy,1990,300,1992,8000,100,grand_cru
+DRC La Tache,Burgundy,1999,500,2001,5500,100,grand_cru
+DRC La Tache,Burgundy,2005,1200,2007,5500,99,grand_cru
+DRC La Tache,Burgundy,2010,2200,2012,5000,99,grand_cru
+DRC La Tache,Burgundy,2015,3500,2017,5800,99,grand_cru
+Leroy Musigny,Burgundy,2010,5000,2012,28000,99,grand_cru
+Leroy Musigny,Burgundy,2015,8000,2017,30000,100,grand_cru
+Roumier Musigny,Burgundy,2005,700,2007,22000,99,grand_cru
+Roumier Musigny,Burgundy,2010,1200,2012,25000,99,grand_cru
+Roumier Musigny,Burgundy,2015,2500,2017,30000,99,grand_cru
+Rousseau Chambertin,Burgundy,2005,300,2007,3500,98,grand_cru
+Rousseau Chambertin,Burgundy,2010,400,2012,3500,99,grand_cru
+Rousseau Chambertin,Burgundy,2015,600,2017,3800,99,grand_cru
+Coche-Dury Corton-Charlemagne,Burgundy,2010,800,2012,8000,99,grand_cru
+Coche-Dury Corton-Charlemagne,Burgundy,2015,1500,2017,8500,99,grand_cru
+Krug Vintage,Champagne,1990,130,1997,700,97,prestige
+Krug Vintage,Champagne,1995,140,2002,500,96,prestige
+Krug Vintage,Champagne,2000,160,2008,450,95,prestige
+Krug Vintage,Champagne,2002,180,2010,650,98,prestige
+Krug Vintage,Champagne,2008,280,2018,550,98,prestige
+Krug Vintage,Champagne,2012,340,2022,500,97,prestige
+Dom Perignon,Champagne,1990,80,1996,400,96,prestige
+Dom Perignon,Champagne,1996,100,2003,350,96,prestige
+Dom Perignon,Champagne,2002,150,2009,400,97,prestige
+Dom Perignon,Champagne,2008,200,2018,340,98,prestige
+Dom Perignon,Champagne,2013,250,2023,280,96,prestige
+Cristal,Champagne,1990,110,1997,650,96,prestige
+Cristal,Champagne,2002,180,2009,550,98,prestige
+Cristal,Champagne,2008,250,2018,400,98,prestige
+Cristal,Champagne,2014,280,2024,330,97,prestige
+Salon,Champagne,1996,200,2007,1500,97,prestige
+Salon,Champagne,2002,300,2014,1200,99,prestige
+Salon,Champagne,2007,400,2018,800,97,prestige
+Salon,Champagne,2012,500,2023,900,98,prestige
